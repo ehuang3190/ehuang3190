@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehuang3190
-- 👀 I’m interested in digital logic, and am getting into computer vision and machine learning.
+- 👀 I’m interested in digital logic, and am getting into computer vision and machine learning this upcoming school year!
 - 🌱 I’m currently studying Electrical Engineering at the University of California, Los Angeles.
 - 💞️ I’m looking to collaborate on projects related to digital logic.
 - 📫 How to reach me: eihuang@g.ucla.edu
